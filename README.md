@@ -28,12 +28,7 @@ This useful project was created by Derek J. Lambert.
 Alexandre Tranchant forked it from [creof/doctrine2-spatial](https://github.com/creof/doctrine2-spatial) 
 because project seems to be non-active since 2017.
 
-The master release can be used, but be careful of backward incompatibility. 
-
-## Developments in progress
-This fork will upgrade this package to the last doctrine version and the [PHP supported versions](https://www.php.net/supported-versions.php). 
-I would like to release the 2.0.0 version at the end of March.
-
+The master release can be used, but be careful of backward incompatibility.
 
 Compatibility
 -------------
