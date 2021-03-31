@@ -38,13 +38,8 @@ I would like to release the 2.0.0 version at the end of March.
 Compatibility
 -------------
 ### PHP
-This doctrine extension is compatible with PHP 7.2, 7.3 and 7.4
+This doctrine extension is compatible with PHP 7.3, 7.4 and 8.0
 Security fixes will follow the [PHP Roadmap](https://www.php.net/supported-versions.php).
-
-### Doctrine dev version
-This extension should be used with the actual doctrine stable version: 2.7
-Continuous integration tests libraries with 2.8.x-dev version. We **ONLY** try to stay compatible with this version, 
-currently. 
 
 ### MySQL 5.7 and 8.0
 A lot of functions change their names between this two versions. The [MySQL 5.7 deprecated functions](https://stackoverflow.com/questions/60377271/why-some-spatial-functions-does-not-exists-on-my-mysql-server)
