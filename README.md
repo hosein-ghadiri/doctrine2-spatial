@@ -33,7 +33,7 @@ The master release can be used, but be careful of backward incompatibility.
 Compatibility
 -------------
 ### PHP
-This doctrine extension is compatible with PHP 7.3, 7.4 and 8.0
+This doctrine extension is compatible with PHP 7.2+
 Security fixes will follow the [PHP Roadmap](https://www.php.net/supported-versions.php).
 
 ### MySQL 5.7 and 8.0
