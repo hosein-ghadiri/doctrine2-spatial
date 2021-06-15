@@ -28,23 +28,13 @@ This useful project was created by Derek J. Lambert.
 Alexandre Tranchant forked it from [creof/doctrine2-spatial](https://github.com/creof/doctrine2-spatial) 
 because project seems to be non-active since 2017.
 
-The master release can be used, but be careful of backward incompatibility. 
-
-## Developments in progress
-This fork will upgrade this package to the last doctrine version and the [PHP supported versions](https://www.php.net/supported-versions.php). 
-I would like to release the 2.0.0 version at the end of March.
-
+The master release can be used, but be careful of backward incompatibility.
 
 Compatibility
 -------------
 ### PHP
-This doctrine extension is compatible with PHP 7.2, 7.3 and 7.4
+This doctrine extension is compatible with PHP 7.2+
 Security fixes will follow the [PHP Roadmap](https://www.php.net/supported-versions.php).
-
-### Doctrine dev version
-This extension should be used with the actual doctrine stable version: 2.7
-Continuous integration tests libraries with 2.8.x-dev version. We **ONLY** try to stay compatible with this version, 
-currently. 
 
 ### MySQL 5.7 and 8.0
 A lot of functions change their names between this two versions. The [MySQL 5.7 deprecated functions](https://stackoverflow.com/questions/60377271/why-some-spatial-functions-does-not-exists-on-my-mysql-server)
